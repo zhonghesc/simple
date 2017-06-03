@@ -13,6 +13,7 @@ Usage
 -----
 
 example::
+
     >>>s = ProxyClient("http://127.0.0.1:8080")
     >>>data={"aa":"bb"}
     >>>headers={"ContentType":"application/json"}
