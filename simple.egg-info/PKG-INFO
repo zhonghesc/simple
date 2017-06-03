@@ -1,0 +1,31 @@
+Metadata-Version: 1.1
+Name: simple
+Version: 0.1.1
+Summary: simple API wrapper
+Home-page: https://github.com/zhonghesc/simple
+Author: Zhonghe
+Author-email: zhonghesc@126.com
+License: UNKNOWN
+Description: =============
+        Simple
+        =============
+        
+        
+        
+        Changes
+        =======
+        
+        0.1.1 (2017-06-04)
+        ------------------
+        
+Keywords: simple,api,restful
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3

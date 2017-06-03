@@ -34,11 +34,7 @@ setup(
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 3',
-        'Topic :: Software Development :: Libraries',
-        'Topic :: System :: Monitoring',
-        'Topic :: System :: Networking :: Monitoring',
-        'Topic :: System :: Systems Administration'
+        'Programming Language :: Python :: 3'
     ],
     keywords=['simple', 'api', 'restful']
 )

@@ -36,3 +36,9 @@ class WapperObject(object):
             self.api = self.api + name + "/"
             return WapperObject(name, self.proxy, self.api)
 
+s = ProxyClient("http://127.0.0.1:8080")
+data={"aa":"bb"}
+headers={"ContentType":"application/json"}
+params = {"user":"xxxxxx"}
+
+s.aa.bb.cc.dd.ff.request(headers=headers, data=data, method='GET', params=params)
