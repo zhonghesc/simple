@@ -1,14 +1,16 @@
-============
+=============
 simple
 =============
+
 simple code for restful API
 
 RESTFUL API
-----------
+-----------
+
     GET /xxx/xxx/xxx/xxx
 
 Usage
-----------
+-----
 
 example::
     >>>s = ProxyClient("http://127.0.0.1:8080")
